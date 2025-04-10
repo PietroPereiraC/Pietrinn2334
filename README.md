@@ -1,5 +1,6 @@
 - 👋 EU SOU PIETRO PEREIRA
 - 🌱 Cursando Desenvolvimento de Sistemas
+PYTHON
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 
 
