@@ -1,3 +1,22 @@
+# Snake Game 🐍
+
+Este é um jogo simples da cobrinha feito com Python e pygame.
+
+## Como jogar
+
+- Use as teclas de seta para mover a cobrinha.
+- Coma a comida para crescer.
+- Evite bater nas paredes ou em si mesmo.
+
+## Requisitos
+
+- Python 3
+- pygame (`pip install pygame`)
+
+## Para rodar o jogo
+
+```bash
+python snake_game.py
 
 ---
 
